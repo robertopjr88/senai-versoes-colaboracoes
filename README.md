@@ -5,3 +5,7 @@
 ## :point_right: **Descrição**
 Aqui estaremos documentando as melhorias nos estudos e projetos relacionados ao curso de versionamento e programação.
 
+---
+
+</b>TESTE DA MINHA PRIMEIRA BRANCH</b>
+
